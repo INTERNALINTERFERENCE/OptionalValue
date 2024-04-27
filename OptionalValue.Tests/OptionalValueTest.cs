@@ -1,4 +1,6 @@
 ﻿
+using NUnit.Framework;
+
 namespace OptionalValue.Tests;
 
 public class OptionalValueTest
